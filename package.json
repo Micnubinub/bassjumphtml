@@ -1,7 +1,7 @@
 {
-    "name": "RoadRage",
+    "name": "BassJump",
     "version": "0.1.0",
-    "description": "Road Rage",
+    "description": "Bass Jump",
     "scripts": {
         "start": "http-server"
     },
