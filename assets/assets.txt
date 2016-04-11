@@ -20,7 +20,6 @@ i:platform.png:150:image/png
 i:platformFlash.png:150:image/png
 i:player.png:988:image/png
 i:rect.png:146:image/png
-a:song1.mp3:5051561:application/unknown
 i:speedParticle.png:151:image/png
 b:sprites:3181:application/unknown
 i:sprites.png:117579:image/png
