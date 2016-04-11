@@ -1,0 +1,23 @@
+{
+    "name": "RoadRage",
+    "version": "0.1.0",
+    "description": "Road Rage",
+    "scripts": {
+        "start": "http-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://"
+    },
+    "author": "Lindelwe Ncube",
+    "license": "MIT",
+    "contributors": [
+        "Lindelwe Michael Ncube <lindelwencube.ln@gmail.com>"
+    ],
+    "engines": {
+        "node": "5.1.0"
+    },
+    "dependencies": {
+        "http-server": "^0.9.0"
+    }
+}
